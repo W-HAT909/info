@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://animal.wildsurf.net/sitemap.xml
